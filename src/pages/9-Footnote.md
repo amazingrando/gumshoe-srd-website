@@ -1,3 +1,7 @@
+---
+title: Footnote
+order: 9
+---
 <!-- order:9 -->
 # Footnote
 

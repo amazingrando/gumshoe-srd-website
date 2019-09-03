@@ -1,6 +1,7 @@
-<!-- order:4 -->
-# Your Character
-
+---
+title: Your Character
+order: 4
+---
 Create player characters by choosing your **character concept, investigative abilities,** and **general abilities.**
 
 Investigative abilities allow you to find the information your character needs to move forward in a mystery-solving narrative, plus occasional additional benefits.

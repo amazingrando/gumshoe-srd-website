@@ -1,3 +1,7 @@
+---
+title: GUMSHOESRD CREATIVE COMMONS VERSION
+order: 1
+---
 <!-- order:1 -->
 # GUMSHOE SRD CREATIVE COMMONS VERSION
 

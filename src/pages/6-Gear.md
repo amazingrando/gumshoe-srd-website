@@ -1,3 +1,7 @@
+---
+title: Gear
+order: 6
+---
 <!-- order:6 -->
 # Gear
 

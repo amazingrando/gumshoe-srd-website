@@ -1,3 +1,7 @@
+---
+title: TheGUMSHOE Rules System
+order: 5
+---
 <!-- order:5 -->
 # The GUMSHOE Rules System
 

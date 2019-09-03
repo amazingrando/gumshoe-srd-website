@@ -1,39 +1,41 @@
 import Typography from "typography"
+import color from "../utils/colors"
 
 const typography = new Typography({
   googleFonts: [
     {
-      name: "Libre Franklin",
+      name: "Noto Sans TC",
       styles: ["400", "400i", "700", "700i"],
     },
   ],
-  baseFontSize: "18px",
+  baseFontSize: "16px",
   baseLineHeight: 1.5,
-  headerFontFamily: ["Libre Franklin", "sans-serif"],
-  bodyFontFamily: ["Georgia", "sans-serif"],
+  headerFontFamily: ["Noto Sans TC", "sans-serif"],
+  bodyFontFamily: ["Noto Sans TC", "sans-serif"],
   blockMarginBottom: 0.7,
+
   overrideStyles: ({ adjustFontSizeTo, rhythm }, options, styles) => ({
     body: {
-      background: `#D8D8D8`,
-      color: `#333333`,
+      background: color.yellow,
+      color: color.text,
     },
     h1: {
+      color: color.red,
+      fontSize: "2.5rem",
       marginTop: rhythm(2),
       marginBottom: rhythm(1),
     },
     h2: {
-      fontWeight: "bold",
-      fontSize: "2rem",
-      lineHeight: "1",
+      fontSize: "1.75rem",
+      marginTop: rhythm(2),
+      marginBottom: rhythm(1),
     },
     h3: {
-      fontWeight: "bold",
-      fontSize: "1rem",
-      lineHeight: "1",
+      marginTop: rhythm(2),
       marginBottom: rhythm(1),
     },
     p: {
-      marginBottom: rhythm(1),
+      marginBottom: rhythm(0.5),
     },
     blockquote: {
       fontSize: "1.5rem",
