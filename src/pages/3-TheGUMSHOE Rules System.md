@@ -1,10 +1,7 @@
 ---
-title: TheGUMSHOE Rules System
-order: 5
+title: The GUMSHOE Rules System
+order: 3
 ---
-<!-- order:5 -->
-# The GUMSHOE Rules System
-
 This section describes the basic GUMSHOE rules system and is addressed to players and GM alike. But first bear with us for a little explanatory theory.
 
 ## Why This Game Exists

@@ -1,9 +1,7 @@
 ---
-title: GUMSHOESRD CREATIVE COMMONS VERSION
-order: 1
+title: Gumshoe SRD Creative Commons Version
+order: 8
 ---
-<!-- order:1 -->
-# GUMSHOE SRD CREATIVE COMMONS VERSION
 
 ## Copyright Notice
 

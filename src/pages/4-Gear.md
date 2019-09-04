@@ -1,15 +1,13 @@
 ---
 title: Gear
-order: 6
+order: 4
 ---
-<!-- order:6 -->
-# Gear
 
-*\[The importance of gear varies from game to game. In TimeWatch, each agent has specified starting gear, and can build or acquire additional gear using Preparedness.\]*
+_\[The importance of gear varies from game to game. In TimeWatch, each agent has specified starting gear, and can build or acquire additional gear using Preparedness.\]_
 
 ## Standard Issue TimeWatch Gear
 
-Most *TimeWatch* campaigns feature standard equipment that is issued to every Agent. If this equipment is lost or needs replacing, and you have access to an autochron, the Preparedness Difficulty to replace standard gear is usually 1 lower than normal.
+Most _TimeWatch_ campaigns feature standard equipment that is issued to every Agent. If this equipment is lost or needs replacing, and you have access to an autochron, the Preparedness Difficulty to replace standard gear is usually 1 lower than normal.
 
 ### Autochron
 
@@ -21,7 +19,7 @@ Once activated, the rod extends one meter to act as a set of handlebars. Hologra
 
 Time traveling mid-combat can be an extremely dangerous proposition. When the chronal field first activates, the autochron and the operator are both quite vulnerable. Any attack during that round that hits the time traveler, regardless of damage, collapses the chronal field and causes the autochron to stop working until repaired. Any individual in the chronal field at the time must make a Difficulty 6 / Loss 6 Paradox test. After the one round of vulnerability autochron chronal fields act as cover for the pilots inside them, raising Agent Hit Thresholds by 1 point. After a jump an autochron requires 1–3 rounds, rolled randomly as needed, before it recharges and can time travel or teleport again.
 
-Broken autochrons can be repaired with several hours of work by an Agent with Timecraft 2 and an expenditure of 6 Tinkering, although the GM may decide to increase or reduce this repair time and Tinkering cost based on the availability of parts and tools. Spending a Science\! or Timecraft point typically cuts this time in half, as does the Tinkering Booster *Rapid Deployment*.
+Broken autochrons can be repaired with several hours of work by an Agent with Timecraft 2 and an expenditure of 6 Tinkering, although the GM may decide to increase or reduce this repair time and Tinkering cost based on the availability of parts and tools. Spending a Science\! or Timecraft point typically cuts this time in half, as does the Tinkering Booster _Rapid Deployment_.
 
 Autochrons are usually set to adjust their arrival location to somewhere private where their distinctive sound and vibrant purple glow will not be seen. This can easily be turned off by an operator more interested in accuracy than secrecy. An autochron can safely materialize underwater or in outer space and will protect the operator from atmosphere-based environmental hazards so long as the device remains active.
 
@@ -83,7 +81,7 @@ Your tether is chronomorphic; that means that it adjusts its appearance to your 
 
 If you lack the Research Investigative ability, your connection with your tether is somewhat compromised when compared to other Agents. Your tether will still report to you on whatever eras of history you have selected as Investigative abilities, but will lose its data connection or have a tendency to report less relevant information when you are attempting to research other areas of interest. Don’t be surprised if the GM has fun roleplaying this.
 
-Tethers are a plot device that exist to make *TimeWatch* games more fun. They’re the reason that Agents using their Research ability can spend most of their time in the field instead of in libraries. Not that libraries aren’t fantastic, but when you need to know the exact details of the Battle of Hastings while someone with a sword is trying to kill you, you’ll appreciate your tether’s more immediate convenience.
+Tethers are a plot device that exist to make _TimeWatch_ games more fun. They’re the reason that Agents using their Research ability can spend most of their time in the field instead of in libraries. Not that libraries aren’t fantastic, but when you need to know the exact details of the Battle of Hastings while someone with a sword is trying to kill you, you’ll appreciate your tether’s more immediate convenience.
 
 Because their capabilities aren’t minutely described, a tether’s capabilities can be as advanced as you and the GM wish it to be. Tethers are superb for explaining how you can quickly gain information from your more obscure Investigative abilities. Whether you’re secretly subvocalizing with your team on an encrypted channel, interfacing with a missile’s guidance system, hacking a massive information network, or viewing a 3-D map of Prussian battle sites, your tether is the tool of choice to use.
 

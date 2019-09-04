@@ -9,10 +9,12 @@ import React, { useState } from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 import { css } from "@emotion/core"
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+import { faGithub } from "@fortawesome/free-brands-svg-icons"
+import color from "../utils/colors"
 
 import Header from "./header"
 import Nav from "./nav"
-import "./layout.css"
 
 const Layout = ({ children }) => {
   const [menuOpen, handleMenuOpen] = useState(false)
@@ -43,13 +45,49 @@ const Layout = ({ children }) => {
           margin: 0 auto;
           max-width: 960px;
           padding: 0px 1.0875rem 1.45rem;
+
+          a {
+            color: ${color.link};
+          }
         `}
       >
         <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+        <footer
+          css={css`
+            margin: 1rem 0 4rem;
+          `}
+        >
+          Made with{" "}
+          <span role="img" aria-label="Love">
+            ❤️
+          </span>{" "}
+          by <a href="https://twitter.com/amazingrando">@amazingrando</a>
+          <div
+            css={css`
+              float: right;
+            `}
+          >
+            <a
+              css={css`
+                margin-right: 1rem;
+              `}
+              href="https://creativecommons.org/licenses/by/3.0/"
+            >
+              Attribution 3.0 Unported (CC BY 3.0)
+            </a>
+            <a
+              css={css`
+                margin-right: 1rem;
+              `}
+              href="https://site.pelgranepress.com/index.php/the-gumshoe-system-reference-document/"
+            >
+              Official SRD
+            </a>
+            <FontAwesomeIcon icon={faGithub} />{" "}
+            <a href="https://github.com/amazingrando/gumshoe-srd-website">
+              Files on Github
+            </a>
+          </div>
         </footer>
       </div>
       <Nav menuOpen={menuOpen} menuToggle={() => handleMenuOpen(!menuOpen)} />
