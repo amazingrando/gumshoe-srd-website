@@ -1,6 +1,6 @@
 ---
 title: Your Character
-order: 4
+order: 2
 ---
 Create player characters by choosing your **character concept, investigative abilities,** and **general abilities.**
 

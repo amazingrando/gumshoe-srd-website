@@ -1,9 +1,7 @@
 ---
-title: VersionHistory
-order: 2
+title: Version History
+order: 9
 ---
-<!-- order:2 -->
-# Version History
 
 ### Version 2
 

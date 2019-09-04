@@ -98,11 +98,18 @@ const Nav = ({ props, menuOpen, menuToggle }) => {
           border-top: 1px solid rgba(255, 255, 255, 0.1);
           margin-top: 3rem;
           padding: 1.7rem 0.75rem;
+
+          a {
+            color: ${color.white};
+          }
         `}
       >
         <p>
-          Made with ❤️ by{" "}
-          <a href="https://twitter.com/amazingrando">@amazingrando</a>
+          Made with{" "}
+          <span role="img" aria-label="Love">
+            ❤️
+          </span>{" "}
+          by <a href="https://twitter.com/amazingrando">@amazingrando</a>
         </p>
       </div>
     </nav>

@@ -1,9 +1,7 @@
 ---
-title: DesigningScenarios
-order: 7
+title: Designing Scenarios
+order: 5
 ---
-<!-- order:7 -->
-# Designing Scenarios
 
 The GUMSHOE system supports a certain style of scenario design. The rules are less important to the success of your game than the way you structure your adventures.
 
@@ -111,13 +109,13 @@ A core scene typically includes many pieces of information in addition to its co
 
 Don’t make all non-core clues spends. Add spends when:
 
-  - you think of facts that seem enjoyably arcane
+- you think of facts that seem enjoyably arcane
 
-  - a piece of information is tangential or obscure
+- a piece of information is tangential or obscure
 
-  - lasers might get information more quickly than they otherwise would
+- lasers might get information more quickly than they otherwise would
 
-  - they might secure some other practical advantage
+- they might secure some other practical advantage
 
 If a spend doesn’t make the character giving up his points seem more impressive, or confer some other advantage, it shouldn’t be a spend.\[6\]
 

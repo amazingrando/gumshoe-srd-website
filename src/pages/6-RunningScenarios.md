@@ -1,9 +1,7 @@
 ---
-title: RunningScenarios
-order: 8
+title: Running Scenarios
+order: 6
 ---
-<!-- order:8 -->
-# Running Scenarios
 
 The GUMSHOE Rules System covers much of what you need to run The Esoterrorists; this section supplements that with additional GM-centric advice.
 
@@ -23,17 +21,17 @@ If the consequence of failure is that a character fails to get a piece of crucia
 
 You can give out clues both actively and passively. By default, though, GUMSHOE assumes that the use of interpersonal abilities is active; the players have to correctly choose an appropriate ability and describe how they’re using it to open a contact up to questioning. When you see that players are hesitant, tell the player with the relevant ability that his experienced OV character can sense that it will work here:
 
-  - “You get the feeling that this guy will crack if you lean on him a little.” (Intimidation)
+- “You get the feeling that this guy will crack if you lean on him a little.” (Intimidation)
 
-  - “He seems kind of smitten by you.” (Flattery)
+- “He seems kind of smitten by you.” (Flattery)
 
-  - “The squeal of a police scanner tells you you’ve got a wannabe cop on your hands. “ (Cop Talk)
+- “The squeal of a police scanner tells you you’ve got a wannabe cop on your hands. “ (Cop Talk)
 
 ## Being in the Right Place
 
-GUMSHOE procedural series require their own conceits in order to keep the story moving in an entertaining manner. They require the audience’s complicity in looking the other way. Here GM and players handwave certain elements that break the rules of realism in order to keep the game running smoothly, just as TV scriptwriters. For example, *the conceit of primacy* in shows such as Law and Order ensure that the lead characters get the juiciest cases and more action than any cop is likely to experience in a lifetime. Just as the aforementioned devices arise from the requirements of TV drama, GUMSHOE’s conceits grapple with the limitations of a roleplaying session.
+GUMSHOE procedural series require their own conceits in order to keep the story moving in an entertaining manner. They require the audience’s complicity in looking the other way. Here GM and players handwave certain elements that break the rules of realism in order to keep the game running smoothly, just as TV scriptwriters. For example, _the conceit of primacy_ in shows such as Law and Order ensure that the lead characters get the juiciest cases and more action than any cop is likely to experience in a lifetime. Just as the aforementioned devices arise from the requirements of TV drama, GUMSHOE’s conceits grapple with the limitations of a roleplaying session.
 
-The major device you’ll want to adopt, needed for all but the smallest groups, is the conceit of *elastic participation*
+The major device you’ll want to adopt, needed for all but the smallest groups, is the conceit of _elastic participation_
 
 **Use the concept of elastic participation to ensure that there is always a PC in the right place.**
 
@@ -45,19 +43,19 @@ Just as in games where you roll for clues, players always have to describe a log
 
 Traditional style:
 
-*Player*: I examine the body looking for a cause of death .
+_Player_: I examine the body looking for a cause of death .
 
-*GM*: Roll Forensic Anthropology
+_GM_: Roll Forensic Anthropology
 
-*Player*: I succeed.
+_Player_: I succeed.
 
-*GM*: It’s blunt force trauma to the back of the skull. There are traces of a slimy residue
+_GM_: It’s blunt force trauma to the back of the skull. There are traces of a slimy residue
 
 GUMSHOE style:
 
-*Player* : I examine the body looking for a cause of death.
+_Player_ : I examine the body looking for a cause of death.
 
-*GM*: \[*Checks worksheet to see if the player’s character has Forensic Anthropology, which she does.\]* It’s blunt force trauma to the back of the skull. There are traces of a slimy residue.
+_GM_: \[_Checks worksheet to see if the player’s character has Forensic Anthropology, which she does.\]_ It’s blunt force trauma to the back of the skull. There are traces of a slimy residue.
 
 In neither style do you see players grabbing their character sheets as soon as they enter a new scene and shouting out “Anthropology\! Archaeology\! Art History\! Evidence Collection\!” They don’t do this because it would be weird, boring, and stupid—and because in neither case does it fill all the requirements necessary to get information from a scene.
 
