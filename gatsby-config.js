@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: `Gumshoe SRD (System Reference Document)`,
-    description: `Description`,
+    description: `Gumshoe SRD (System Reference Document)`,
     author: `@amazingrando`,
+    image: "/sharing.png",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -22,10 +23,10 @@ module.exports = {
         name: `gatsby-starter-default`,
         short_name: `starter`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
+        background_color: `#14273D`,
+        theme_color: `#14273D`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icons: [],
       },
     },
     {
@@ -40,6 +41,23 @@ module.exports = {
       options: {
         trackingId: "UA-",
         respectDNT: true,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-favicon`,
+      options: {
+        logo: "./static/favicon.png",
+        appName: "Gumshoe SRD",
+        icons: {
+          android: true,
+          appleIcon: true,
+          appleStartup: true,
+          coast: false,
+          favicons: true,
+          firefox: true,
+          yandex: false,
+          windows: false,
+        },
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality
